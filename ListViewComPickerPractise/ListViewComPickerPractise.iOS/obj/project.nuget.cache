@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qrMSBs4nb6V8iXESXe4bPt57cCiqwBZWYL34OjxnGhJaSqd/ydv93JNcUBx/3GZ4+edXWbihGy815rhLPJmTSw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\santosh\\source\\repos\\ListViewComPickerPractise\\ListViewComPickerPractise\\ListViewComPickerPractise.iOS\\ListViewComPickerPractise.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\santosh\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\santosh\\.nuget\\packages\\xamarin.essentials\\1.2.0\\xamarin.essentials.1.2.0.nupkg.sha512",
+    "C:\\Users\\santosh\\.nuget\\packages\\xamarin.forms\\4.2.0.709249\\xamarin.forms.4.2.0.709249.nupkg.sha512"
+  ],
+  "logs": []
+}
